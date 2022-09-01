@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0169: Поле "Form1.GroupId" никогда не используется.
+dotnet_diagnostic.CS0169.severity = none
